@@ -1,0 +1,541 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Andrew's Plymouth, January 30th, 1698/9 by John Gilbert ... ; with a preface defending King Charles the martyr, and the observation of his day, against the libels, and practice of such, who are enemies to both.</title>
+            <author>Gilbert, John, d. 1722.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 35 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A42728</idno>
+            <idno type="STC">Wing G711</idno>
+            <idno type="STC">ESTC R3491</idno>
+            <idno type="EEBO-CITATION">12268581</idno>
+            <idno type="OCLC">ocm 12268581</idno>
+            <idno type="VID">58138</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A42728)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58138)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 628:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Andrew's Plymouth, January 30th, 1698/9 by John Gilbert ... ; with a preface defending King Charles the martyr, and the observation of his day, against the libels, and practice of such, who are enemies to both.</title>
+                  <author>Gilbert, John, d. 1722.</author>
+               </titleStmt>
+               <extent>[26], 37, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Sam Darker, for Tho. Bennet ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Advertisement: p. [2]-[3] at end.</note>
+                  <note>Half title: Canon Gilbert's sermon preached at St. Andrew's Plymouth, January 30th, 1698/9.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Samuel, 2nd, XXI, 1 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:58138:1" rendition="simple:additions"/>
+            <p>
+               <hi>Canon</hi> Gilbert'<hi>s</hi> SERMON Preached at <hi>St.</hi> Andrew'<hi>s</hi> Plymouth, <hi>January</hi> 30th, 1698/9.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:58138:2"/>
+            <pb facs="tcp:58138:2"/>
+            <p>A SERMON Preached at <hi>St.</hi> Andrew'<hi>s</hi> Plymouth, <hi>January</hi> 30th, 1698/9.</p>
+            <p>By <hi>JOHN GILBERT,</hi> M. A. Vicar there; and Canon of <hi>Exeter.</hi>
+            </p>
+            <p>With a PREFACE, DEFENDING King <hi>Charles</hi> the Martyr, And the Obſervation of His Day, againſt the Libels, and Practice of ſuch, who are Enemies to both.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Sam. Darker,</hi> for <hi>Tho. Bennet,</hi> at the Half-Moon in St. <hi>Paul</hi>'s Church-Yard. 1699.</p>
+         </div>
+         <div type="publisher_to_the_reader">
+            <pb facs="tcp:58138:3"/>
+            <pb facs="tcp:58138:3"/>
+            <head>THE Publiſher <hi>to the</hi> Reader, In Defence of KING <hi>CHARLES</hi> THE MARTYR, And the Obſervation of <hi>His Day.</hi>
+            </head>
+            <p>THE Importunity of Friends, and the Re<g ref="char:EOLhyphen"/>flection made by others, on this Sermon, gave the Reverend Preacher juſt Cauſe to permit its Publication, that he might Gra<g ref="char:EOLhyphen"/>tify the Deſires of the one, and Confute the wrong Surmiſes of the other.</p>
+            <p>
+               <pb facs="tcp:58138:4"/>
+DISCOURSES of this Nature, never were more ſeaſonable and needful than now; while ma<g ref="char:EOLhyphen"/>ny, with ſuch Freedom (to call it no worſe) ca<g ref="char:EOLhyphen"/>lumniate the good Name, and trample on the A<g ref="char:EOLhyphen"/>ſhes of that Glorious Sufferer, the <hi>Martyr</hi> of the Day: whoſe pious Memory, and Righteouſneſs, are, by the Command and Example of the higheſt Authority in <hi>England,</hi> Yearly Commemorated and Recognized to God and the World.</p>
+            <p>NO Men pretend greater Regard and Deference to the Authority and Judgment of Parliaments, than many of thoſe, who in the Caſe of K. <hi>Charles,</hi> con<g ref="char:EOLhyphen"/>tradict, and give them the Lye. If they Deter<g ref="char:EOLhyphen"/>mine or Enact agreeable to the Humor and Intereſt of thoſe Partial Men, they magnify the Judgment of our Repreſentatives to a Pitch near Infallibility, and make their Power boundleſs. But if many ſuc<g ref="char:EOLhyphen"/>ceſſive Parliaments Declare, or Decree, contrary to their Opinions, or Principles, or oppoſite to their Humors and Inclinations, or Credit, no Men leſs regard, ſubmit, or conform to it, than they.</p>
+            <p>OF this, the <hi>R. Martyr's</hi> Caſe is a Notorious In<g ref="char:EOLhyphen"/>ſtance; for he, tho' declared in many Acts of di<g ref="char:EOLhyphen"/>vers Parliaments, <hi>A Righteous, Juſt, Innocent Prinse,</hi> and as ſuch, Yearly Commemorated, by their ſolemn Lamentation on His Day; and order<g ref="char:EOLhyphen"/>ing publick Thanks to the Preachers, and printing the Sermons then delivered before them (which ought to ſway the Judgments of thoſe Men, or at
+<pb facs="tcp:58138:4"/>
+leaſt, to ſtop their Mouths. But maugre all that, they ſpare not to Reproach his Memory, and Brand his Name, with the Odious Characters of <hi>Bloody Tyrant, Perjured Popiſh Pſeudo-Martyr, and a Spoyler of the</hi> Engliſh <hi>Government.</hi> And do this, not in private Corners, but publick Coffee-houſes, not on<g ref="char:EOLhyphen"/>ly in Cabals and Clubs, ſuch as the Rhiming Con<g ref="char:EOLhyphen"/>venticle of the <hi>Proteſtant Joyner,</hi> and the Calves<g ref="char:EOLhyphen"/>head Meeting of Factious Atheiſts, every <hi>30th of</hi> January, but in Swarms of Libels, openly ſold in <hi>Weſtminſter-Hall,</hi> and Cry'd by the Hawkers at the <hi>King's Palace</hi> Gate, in the Face of the Supream Authority, and Higheſt Judicature of the Nation, who have ſo often, and do ſo frequently declare and proteſt againſt the Falſhood and Scandals which thoſe Venomous Libels impudently Diſperſe, to Reproach His Majeſty's moſt Innocent, and Illu<g ref="char:EOLhyphen"/>ſtrious Progenitor.</p>
+            <p>AT the ſame time, the ſame Men, with match<g ref="char:EOLhyphen"/>leſs Boldneſs, do as Openly, and in Print, Extol <note place="margin">Ludlow's Mem. <hi>Oats,</hi> Icon. 1. <hi>Op, Reform.</hi> Pref. to <hi>Mil<g ref="char:EOLhyphen"/>ton</hi>'s Letters, vind. of <hi>O. C.</hi> vind. <hi>L. Parl.</hi>
+               </note> and Applaud, <hi>as Proteſtant Heroes, Engliſh Patri<g ref="char:EOLhyphen"/>ots, Men full of Grace, the Knowledg of God, and true Religion; Men of Honour, Prudence,</hi> &amp;c. Thoſe execrable Traytors, and proſcribed Regicides, who in divers Statutes, ſtand Branded for horrid Mur<g ref="char:EOLhyphen"/>therers, <hi>Parricides, Miſcreants, Sons of</hi> Belial, <hi>nei<g ref="char:EOLhyphen"/>ther true Subjects, nor true Proteſtants, but Authors of the greateſt Reproach and Infamy, it was poſſible for the greateſt Enemies of God and the King, to bring on the Proteſtant Religion, and the Nation.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:58138:5"/>
+THE Preface to a Sermon will not afford room to ſay all I can, to confute theſe Men, to ſhew the Wickedneſs of their Principles, the Falſeneſs and Injuſtice of their Reproaches; and the Innocence of K. <hi>Charles.</hi> But I have prepared, and will ſhortly publiſh, full, and unqueſtionable Proof of them all.</p>
+            <p>FOR, upon a full and impartial Survey of all that hath been Written on both ſides of the Contro<g ref="char:EOLhyphen"/>verſy, between the <hi>R. M.</hi> and his Enemies, I find, though they had the Advantage, by their Succeſs, to be thought the Right Cauſe, yet they wanted that Strength of Law and Reaſon, which they had in Arms and Legions. And in this Judgment I am confirm'd, by the Concurrence of all the many Parliaments we have had ever ſince that Tragical Diſpute; every of them having judged for the King, and condemn'd his Enemies; declared Him in the Right, and <hi>they</hi> in the Wrong And, beſide the Determination of thoſe moſt competent Judges, we have the Evidence of very many Men, who A<g ref="char:EOLhyphen"/>cted with the greateſt Zeal and Violence againſt Him; and were literally, <hi>His Mortal Enemies;</hi> who being afterward convinced of their Error, publick<g ref="char:EOLhyphen"/>ly Recanted; declared their Repentance and Re<g ref="char:EOLhyphen"/>morſe; gave Teſtimony to His Innocence, and the Righteouſneſs of his Cauſe and from Inveterate Adverſaries, became Advocates, and Compurgators.</p>
+            <p>
+               <pb facs="tcp:58138:5"/>
+NOW, were there no other Evidence, or Ar<g ref="char:EOLhyphen"/>gument (as there are abundance) to prove the In<g ref="char:EOLhyphen"/>nocence of this Holy King, theſe Two were enough, <hi>viz.</hi> The conſtant and agreeing Judgment, and De<g ref="char:EOLhyphen"/>clarations, of many Parliaments; and the Teſti<g ref="char:EOLhyphen"/>mony of many of His greateſt Foes. Theſe ren<g ref="char:EOLhyphen"/>der all other Pleas needleſs, and ſuperſede, as well as ſurmount, all other Proof whatſoever, either from Judgment, or Evidence, or both.</p>
+            <p>FOR the <hi>Parliament,</hi> i. e. and the King, and <note place="margin">
+                  <hi>Coke,</hi> Juriſd. of Courts, c. 1. <hi>Idem,</hi> Inſtit. page 109.</note> three Eſtates of the Realm aſſembled, being by none more than the <hi>Royal M.</hi> Enemies, accounted <hi>the moſt abſolute, and ſupream Judges of right, and wrong;</hi> and the Evidence of an Enemy, reputed the moſt credible in a Man's behalf; and both theſe full, and clear in the Vindication of King <hi>Charles:</hi> The Controverfy muſt End here, unleſs they will deny what all grant to be true; and them<g ref="char:EOLhyphen"/>ſelves with great Ardour, and Zeal, have often aſ<g ref="char:EOLhyphen"/>ſerted. <hi>By this</hi> Law, <hi>and by this</hi> Teſtimony, <hi>we will therefore be Tried,</hi> and Judged, and let thoſe that will not be convinced by them, be accounted, as the Scripture ſaith, <hi>Men that have no truth in them.</hi>
+            </p>
+            <p>MY Work then, in this ſhort Defence, and Pleading for K. <hi>Charles,</hi> is to prove <hi>(1ſt.)</hi> the Vali<g ref="char:EOLhyphen"/>dity, and Competency of their Judgments, or <hi>the power, and rights of Parliaments to judge fully, and
+<pb facs="tcp:58138:6"/>
+finally, in all matters of right, or wrong. (2dly.)</hi> That they have given, or declared for the King. And <hi>(laſtly)</hi> that many of his greateſt, and moſt malici<g ref="char:EOLhyphen"/>ous Foes, by the Invincible power and force of Truth, or Conſcience, have done the ſame. So that <hi>his very Enemies, being Judges,</hi> and Witneſſes, King <hi>Charles</hi> appears Juſt, and Innocent.</p>
+            <p>THE power and right of Parliaments to judge, and make final determination, in the matter before us, appears by their own <hi>Declaratory Statutes,</hi> The nature and practice of all late Parliaments, and by conſent and teſtimony of the King's Enemies.</p>
+            <p>THE tranſcendent power of Parliaments to judge finally in all Caſes, of which they take cog<g ref="char:EOLhyphen"/>nizance, is evident among many of their own De<g ref="char:EOLhyphen"/>clarations. One eſpecially made not only before the Union of the Kingdoms, but before the uniting of the contending Royal Houſes of <hi>Lancaſter</hi> and <hi>York;</hi> is done in words very ſignificant, and ex<g ref="char:EOLhyphen"/>preſſive: <hi>The Parliament,</hi> ſay they, <hi>is of ſuch Au<g ref="char:EOLhyphen"/>thority,</hi> 
+               <note place="margin">
+                  <hi>Rot.</hi> Parli<g ref="char:EOLhyphen"/>am. <hi>apud</hi> Weſtm. 1 Ric. 3.</note> 
+               <hi>that manifeſtation, or declaration, of any Truth or Right, made by them, maketh before all other things, moſt faith and certainty; quieting Mens Minds, and removing the Occaſion of all doubts.</hi>
+            </p>
+            <p>IF we conſider the Nature, and look into the Practice of all late Parliaments, they afford us great reaſon to truſt their Integrity, and rely on their Judgments. Having ſhewn themſelves ſuch irre<g ref="char:EOLhyphen"/>concilable
+<pb facs="tcp:58138:6"/>
+Adverſaries and Oppoſers of <hi>Popery</hi> and <hi>Tyranny;</hi> and ſo quick-ſighted, to diſcover it far off, and alway ſhewing their Abhorrence of thoſe dete<g ref="char:EOLhyphen"/>ſtable Faults in a King; and expreſs'd their Indig<g ref="char:EOLhyphen"/>nation with a witneſs. But when, or where, have they ſaid of a <hi>popiſh Tyrant,</hi> as they do of the <hi>R. Martyr?</hi> And enjoyn anniverſary Lamentations, in the moſt ſolemn-manner, and moſt ſenſible Expreſ<g ref="char:EOLhyphen"/>ſions for the loſs of him; and in the heighth of a National Ferment, againſt Popery and Tyranny <hi>Vote,</hi> as they did, 70000 <hi>l.</hi> to erect a Monument <note place="margin">A. D. 1678.</note> to his <hi>Bleſſed Memory.</hi>
+            </p>
+            <p>
+               <hi>Thirdly,</hi> NONE more Magnify, and cry up the Power and Credit of Parliaments, either as Judges, or Evidences, than thoſe who Writ, Fought, and Preach'd againſt K. <hi>Charles,</hi> the Mar<g ref="char:EOLhyphen"/>tyr, both before, and ſince, His Murther: So that if they ſubmit not to their Deciſion in this, as well as other Caſes, they muſt be Men of great confi<g ref="char:EOLhyphen"/>dence and partiality.</p>
+            <p>THE L. P. <hi>Rem. May</hi> 26. 1642, declare them<g ref="char:EOLhyphen"/>ſelves <note place="margin">
+                  <hi>Husb.</hi> Col<g ref="char:EOLhyphen"/>led. vol. 1. p. 270.</note> 
+               <hi>Judges between the King and His People in all matters of Right.—The Parliament is,</hi> ſay they, at another time, <hi>the Reaſon of the King and Kingdom, The</hi> only <hi>competent Judges where the Fault is—when</hi> 
+               <note place="margin">page 278.</note> 
+               <hi>the Queſtion is, Who is King? or, What is beſt?—What ever they declare, ought not to be queſtioned by any one; and all who guide themſelves by their Decla<g ref="char:EOLhyphen"/>ration, <note place="margin">288.</note>
+                  <pb facs="tcp:58138:7"/>
+ought to be free from all Accounts<g ref="char:punc">▪</g> and Penal<g ref="char:EOLhyphen"/>ties.</hi> This was ſaid of them, when they were ſcarce half two Eſtates; without Lords Spiritual, and a<g ref="char:EOLhyphen"/>gainſt their Head, the King; And ſo were but an <hi>headleſs Trunk,</hi> or Carcaſs, as <hi>Bracton</hi> and <hi>Forteſcue</hi> 
+               <note place="margin">Fal. 109. cap. 12.</note> ſaith of the Engliſh Community, when without a King: For He is, as my Lord <hi>Coke</hi> calls him, <hi>Caput principium, &amp; finis Parliamenti,</hi> ſo eſſential to the making of a Parliament, that <hi>He is Head, Beginning, and End of it.</hi>
+            </p>
+            <p>
+               <hi>W<g ref="char:punc">▪</g> Prinne,</hi> in the heighth of their Reign, pub<g ref="char:EOLhyphen"/>liſhed four Books concerning the <hi>Soveraign Power of Parliaments:</hi> Wherein he makes them <hi>ſole Judges of Wrong done by any one,</hi> eſpecially the King; <hi>and af<g ref="char:EOLhyphen"/>firms it Treaſon to deny it, or refuſe Submiſſions to their Judgments and Declarations.</hi>
+            </p>
+            <p>THE <hi>Regicides,</hi> on the Bench, and the fame <hi>Traytors</hi> at the Bar, inſiſted on this <hi>infallible Judg<g ref="char:EOLhyphen"/>ment,</hi> and <hi>Power of Parliament,</hi> to warrant their execrable Treaſon: But they had no ſuch Power or Judgment to juſtify them.</p>
+            <p>Mr. <hi>Baxter</hi> ſaith, <hi>The Parliament hath Power to</hi> 
+               <note place="margin">Holy C. Wealth, p. 355, 439, 471, <hi>&amp;c.</hi>
+               </note> 
+               <hi>declare what is Juſt, and what is<g ref="char:punc">▪</g> 
+                  <g ref="char:V">Ʋ</g>njuſt; What is Law, and what is againſt Law; They are our Eyes,</hi> &amp;c. <hi>And we are bound to believe them, a the moſt com<g ref="char:EOLhyphen"/>petent Judges<g ref="char:punc">▪</g> and Witneſſes.</hi> And although this was written during, and in juſtification of, <hi>a Rebellion,</hi>
+               <pb facs="tcp:58138:7"/>
+and Uſurpation: Yet, to do Mr. <hi>Baxter</hi> right, he did conform to the Judgment of the next compleat Parliament; and declared the R. M. Innocent, and <hi>the Perſon of the King inviolable;</hi> and for ſo doing, hath been laſh'd in his Grave, by one otherwiſe of his own Kidney. <hi>All Judgments, eſpecially in things of the greateſt moment, are to be Reſpited, till they have</hi> 
+               <note place="margin">Pref. <hi>to E.</hi> Strafford<hi>'s Tryal.</hi>
+               </note> 
+               <hi>declared and judged,</hi> ſaith <hi>Ruſhworth.</hi> Mr. <hi>Johnſon</hi> hath, as much as any Man, aſſerted the Power, and vouched the Credibility of Parliaments, though he <note place="margin">Argum. p. <gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>2.</note> ſometimes takes the liberty to cenſure ſuch as they have declared Innocent; and deny ſome Preroga<g ref="char:EOLhyphen"/>tives of the Crown, fixed to it by many <hi>Sta<g ref="char:EOLhyphen"/>tutes.</hi>
+            </p>
+            <p>I forbear to produce the Opinions of <hi>Horn, Bra<g ref="char:EOLhyphen"/>cton, Fleta, Forteſcue,</hi> Sir <hi>Tho. Smith,</hi> Mr. <hi>Cambden,</hi> Sir <hi>W. Rawleigh,</hi> Sir <hi>Ed. Coke,</hi> Sir <hi>R. Cotton,</hi> and many others, learned in the <hi>Law, Conſtitution,</hi> and <hi>Hiſtory of</hi> England, and go on to ſhew what our Parliament, thoſe Infallible Judges, ſay to the Caſe in Controverſy.</p>
+            <p>THE <hi>healing Parliament,</hi> was convened without a King, under an Illegal and Uſurp'd Power, and conſiſted, for the moſt part, of ſuch as had been active, either in Council, or Arms, againſt the <hi>R. M.</hi> ſo that they knew well what was done, and where the Right lay: And none more than they aſſerted His Innocence, deteſted the Principles, and
+<pb facs="tcp:58138:8"/>
+branded the Men by whom He fell, as may be ſeen in moſt of their Acts.</p>
+            <p>ALL the ſucceeding Parliaments, to this Day, do, on all the Occaſions they have to mention this good King, repeat, and confirm, the Judgment of their Predeceſſors, and declare Him <hi>Innocent, Sa<g ref="char:EOLhyphen"/>cred, moſt Excellent, Gracious,</hi> and of <hi>ever Bleſſed Memory. Eulogies</hi> which belong not, nor will ever be given, to a <hi>Popiſh Tyrant,</hi> by any, much leſs by many, Proteſtant Parliaments. Vide 12. <hi>Car. 2. 11, 12, 14. 30. 13. Car. 2. 5. 9. 38. 14. Car. 2. 9. 21. 22. 29. 16. Car.</hi> 2. 1. 6, &amp; 7. <hi>Guliel. &amp; Mariae,</hi> &amp;c. I refer to the Statute Book for abundance of this kind, and preſent you with the Extract of one Declaration very Emphatical; not to be found there, becauſe the Act is expired, which contains it: But in the Role, 14. <hi>Car.</hi> 2. 8. we have it in theſe words: <hi>Whereas there was a Loyal Party, which, through all hazards and extremities in De<g ref="char:EOLhyphen"/>fence of the KING's Perſon, Crown, and Dig<g ref="char:EOLhyphen"/>nity, the Rights and Priviledge of Parliament, the Laws and Honour of the</hi> Engliſh <hi>Nation, did bear Arms, by the command of His late Majeſty, of ever bleſſed Memory: And, according to their Duty, and the known Laws of the Land, oppoſe that</hi> Barbarous Rebellion, <hi>raiſed againſt His moſt Excellent Majeſty in the Year 1640, by ſome of the Men then ſitting at</hi> Weſtminſter—<hi>by the Rapin, and Oppreſſion of a long Rebellion, Treaſon, and <g ref="char:V">Ʋ</g>ſurpation, the Kingdom
+<pb facs="tcp:58138:8"/>
+became exhauſted,</hi> &amp;c. Here you have the Matter fully diſplay'd, the true Characters and Right of the King's Cauſe ſet forth, the Loyalty of His Friends declared and approved, the Wickedneſs of His Enemies juſtly cenſured and condemn'd, their Reſiſting and taking up Arms againſt Him declar'd Traiterous and Unlawful, and the Direful Effects of that Rebellion, briefly, but fully, deſcribed: Which ſhews how contrary to Law and Truth, in Right and Fact, thoſe late Libels are, which Ac<g ref="char:EOLhyphen"/>cuſe the King, Juſtify the Traitors, and Vindicate that Rebellion; calling Him Tyrant, them Patriots, and that a Bleſſed Reformation: <hi>Cujus contrari<g ref="char:EOLhyphen"/>um.</hi>
+            </p>
+            <p>IF we look into the Sermons yearly preach'd before the Houſe of P. and obſerve their Thanks, and Order to Print ſuch wherein the <hi>R. M.</hi> is ſaid to be, <hi>the beſt of Kings, a ſtrict Obſerver of Juſtice, Honour and Truth; a Prince that had done no harm, nor committed any fault; of perfect Innocence, an up<g ref="char:EOLhyphen"/>right Man, one that feared God, and eſchewed Evil, (like</hi> Joſiah) <hi>a Saint that did that which was right in the ſight of the Lord, the Beſt of Men, the Beſt of Kings, the moſt excellent Example of Virtue and Piety that ever the World produced,</hi> as Dr. <hi>Lancaſter,</hi> Dr. <hi>Langford,</hi> and Mr. <hi>Blackall,</hi> have done the laſt three Anniverſaries: we cannot but ſee it is ſtill their Judgment and Opinion of K. <hi>Charles:</hi> And admire at the Impudence and Falſhood of thoſe many Li<g ref="char:EOLhyphen"/>bels,
+<pb facs="tcp:58138:9"/>
+daily publiſhed to tell the Nation, That ſo many Parliaments have vouched a pernicious Lie; allow'd and confirm'd by publick Sanction ſuch a Character of an <hi>odious Tyrant,</hi> as the beſt of Prin<g ref="char:EOLhyphen"/>ces have not deſerved.</p>
+            <p>And now I would ask all ſober Men of Senſe, to which of theſe ought we to adhere, and ſubmit our Judgments and Belief of this injured Monarch? Where ſhall we find the Truth? Who is moſt like<g ref="char:EOLhyphen"/>ly to be in the right, the Law, or the Libels? Par<g ref="char:EOLhyphen"/>liament, or Pamphlets? Surely, all unprejudiced Men will believe the former, before <hi>Cook, Milton, Goodwin, Ludlow, Jones, Oates,</hi> and all the reſt of theſe ſcandalous Traytors, who ſo falſly and impu<g ref="char:EOLhyphen"/>dently gain-ſay them, and accuſe Him, whom they have acquitted, and declared <hi>Not Guilty.</hi>
+            </p>
+            <p>HAVING thus clear'd up the <hi>Royal Martyr</hi>'s Innocence, by the inculcated Verdict and ſolemn Judgment of the higheſt Judicature, and ſupream Court of <hi>England,</hi> which is <hi>the Senſe and Judgment of the whole Kingdom,</hi> it may ſeem needleſs to pro<g ref="char:EOLhyphen"/>duce any thing elſe in His behalf.</p>
+            <p>BUT, in regard many of His Enemies became convinced of His Juſtice and Innocency, and made open confeſſion thereof, I will produce a few of them, to Evidence the Truth and Juſtice of that Judgment our Parliament have given of this Wrong'd INNOCENT.</p>
+            <p>
+               <pb facs="tcp:58138:9"/>
+               <hi>O. Cromwel,</hi> who was the chiefeſt in Arms, Council and Judgment againſt Him, ſhall be the firſt I will produce for Him; it may ſeem incredi<g ref="char:EOLhyphen"/>ble, that he ſhould ever think, or ſpeak favourably of the R. M. whoſe Life and Throne he took from Him: But we are aſſur'd, by divers of his own Party, that he not only declared his Senſe of the King's Goodneſs, and the Wrong done Him but engaged to Reſcue Him out of His Enemies Hands, and ſettle Him on His Throne. Sir <hi>W. Waller</hi>'s Apologetical Narrative, Sir <hi>Tho. Herbert</hi>'s Thre<g ref="char:EOLhyphen"/>nod. Car. Major <hi>Huntington</hi>'s Addreſs to the Par<g ref="char:EOLhyphen"/>liament: <note place="margin">See alſo M. <hi>Hunt.</hi> Letter to Sir <hi>W. Dugdal,</hi>
+               </note> 
+               <hi>Aug</hi> 1648, Col. <hi>George</hi>'s Account of the Army's Proceedings: All report the Courtſhip <hi>Cromwel</hi> and <hi>Ireton</hi> made to the King, while he was their Priſoner, 1647, and that they often confeſs'd him to be <hi>the beſt of Kings,</hi> His Cauſe <hi>Rightful,</hi> and <note place="margin">page 270.</note> His <hi>Enemies in the Wrong. Ludlow</hi> alſo, in his Me<g ref="char:EOLhyphen"/>moirs, ſaith, <hi>Cromwel,</hi> a little before His Murther, promiſed to do all he could to Serve and Save Him. And there is lately publiſh'd, by <hi>R. Baldwin, John Darby,</hi> &amp;c. Memoirs of Sir <hi>John Barkley,</hi> which tells us, That <hi>Cromwel,</hi> while the King was his Pri<g ref="char:EOLhyphen"/>ſoner, <hi>told him, weeping, that he had been abus'd by a wrong Opinion of the King, who he now thought the moſt upright, and the moſt conſciencious Man in the three Kingdoms.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:58138:10"/>
+THE Converſion of this infamous Traytor, may ſeem but a Copy of his Countenance, a Feign, to gain his Point, and delude the King. But the Crocodile ſaid as much after he had murthered Him and got into his Throne, as we are told by the Au<g ref="char:EOLhyphen"/>thor of a <hi>Paraphraſe on the King's Speech,</hi> printed 1648. Cromwel, ſaith he, <hi>confeſs'd, the Martyr'd</hi> 
+               <note place="margin">P. 19.</note> 
+               <hi>King was a Man of most excellent Parts; great Piety, as a Chriſtian; exceeding Honeſty, as a Man; ſupream Wiſdom, as a King; and of Knowledge, as a Com<g ref="char:EOLhyphen"/>mander, exceeding all his Generals; but being the Son of King</hi> James, <hi>'twas needful that he died.</hi>
+            </p>
+            <p>Mr. <hi>P. Sterry,</hi> the <hi>Sunday</hi> after <hi>Cromwel</hi>'s Death, <note place="margin">18 New Q. Print. 1659.</note> ſaid in his Sermon at the Chappel Royal, <hi>That as ſure as the Word of God was in his Hand, the late Protector was at the right Hand of God, intercedeing for this Nation.</hi> If thoſe People think him ſuch a deified Saint, they cannot refuſe credit to what he confeſſeth; eſpecially of an Enemy.</p>
+            <p>
+               <hi>IRETON</hi> declared himſelf ſo much a Convert to Loyalty, and ſenſible of the King's Righteouſ<g ref="char:EOLhyphen"/>neſs, and the Juſtice of his Cauſe, that he decla<g ref="char:EOLhyphen"/>red, as Mr. <hi>Huntington</hi> relates, <hi>ut ſupra,</hi> that if he had but ſix Men to joyn him, he would Fight for it; that he would purge, and purge the Houſe, 'till all his Enemies were outed.</p>
+            <p>
+               <pb facs="tcp:58138:10"/>
+               <hi>COOK,</hi> the infamous Sollicitor at the High Court of Juſtice, who Impeach'd the King, uſed him Rudely, and afterward writ a Vindication of <note place="margin">Reg. Tryals, <hi>p.</hi> 116. 134.</note> that horrid Villany; did, both before and after the Murther, as was proved, and confeſſed at his Try<g ref="char:EOLhyphen"/>al, declare, <hi>That he believed King</hi> Charles <hi>to be as Wiſe and Gracious a Prince, as any was in the whole World, but he muſt die, and Monarchy with him</hi> And in that ſcandalous Fardle of Treaſon, he writ to defend that helliſh Fact. He confeſs'd, <hi>That the</hi> 
+               <note place="margin">Appeal. p. 35.</note> 
+               <hi>King was a great Student, had more Learning, and Dexterity in State Affairs,</hi> undoubtedly, <hi>than all the Kings in Chriſtendom, and for Parts, had they been ſanctified,</hi> (i. e. Infatuated by Enthuſiaſm) <hi>a ſecond</hi> Solomon.</p>
+            <p>
+               <hi>H. MARTIN</hi> who commanded a Regiment <note place="margin">
+                  <hi>C. Walker,</hi> Hiſt. Ind. vol, 1. p. 171.</note> of Horſe in the Service of the L. <hi>P.</hi> and, as one of the Party writes, a Regiment of Whores in his own; ſat a Judge at the Tryal and Sentence of K. <hi>Charles,</hi> and publiſhed a Vindication thereof; yet afterward, he declared in the <hi>H. of Commons,</hi> upon <note place="margin">
+                  <hi>H. M.</hi> Polit. and Oecon. Letters.</note> a Motion for making <hi>Cromwel</hi> King, That <hi>if a King were neceſſary, it had been better keep the laſt, being the fitteſt for it, of any Gentleman in</hi> England; and <note place="margin">C. <hi>Walker,</hi> ubi ſupra, p. 149. Tryal, p. 249.</note> that <hi>there was no fault in the Perſon, but the Office;</hi> and at his Tryal, confeſſed his Traſon and Repen<g ref="char:EOLhyphen"/>tance.</p>
+            <p>
+               <pb facs="tcp:58138:11"/>
+SURELY ſuch true Proteſtant Patriots, ſuch Babes of Grace, ſuch Bulwarks of the Reformed Religion, and Rights of the People, as theſe Bloo<g ref="char:EOLhyphen"/>dy Parricides were by ſome accounted, would not have ſaid this, of one they thought a Tyrant or a Papiſt; ſo that they were ſuch Judges as <hi>Pontius Pilat,</hi> who condemned to the Croſs, <hi>a King, in whom he confeſs'd he found no Fault.</hi>
+            </p>
+            <p>SIR <hi>W. Waller,</hi> was a Member of the L. P. and one of their Generals, a great Scholar, and a great Soldier; but after he had by his Sword in the Field, and his Voice in the Houſe of Commons, oppoſed the Royal Cauſe and Party, 'till their Over<g ref="char:EOLhyphen"/>throw, and the <hi>King's</hi> Captivity at <hi>Holdenby;</hi> then he became a penitent Convert, and writ an Account of the Tranſactions of thoſe Times, wherein he Ju<g ref="char:EOLhyphen"/>ſtifies and Applauds the King, and abhors the Re<g ref="char:EOLhyphen"/>bellion and Murther. <hi>In his time,</hi> ſays he, <hi>under</hi> 
+               <note place="margin">Apolog. Nar. p. 140.</note> 
+               <hi>a complaint of Slavery, we lived like Freemen.—I do utterly declare the Proceedings againſt him, as contrary to Faith, Example, Duty, and Oaths; he granted more than any King ever did to any Parliament, or more than any Parliament ever demanded of any King; and more than the fatal Long Parliament could in the Be<g ref="char:EOLhyphen"/>ginning hope or wiſh. I do not ſo much as in Thought,</hi> 
+               <note place="margin">P. 139.</note> 
+               <hi>reflect on the Honour of His late Majeſty, whoſe Me<g ref="char:EOLhyphen"/>mory ſhall remain Sacred and Glorious, while that of His Enemies ſhall rot and ſtink.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:58138:11"/>
+SEVERAL others, who bore Arms againſt the King at that time, had the like Remorſe and Sentiments, and ſhewed it openly, even while <hi>Nol</hi> was in his Altitudes, and drove <hi>Army, Parliament,</hi> and all before him.</p>
+            <p>M. <hi>R. Huntington,</hi> Coll. <hi>George,</hi> Coll. <hi>E. Crooke,</hi> 
+               <note place="margin">
+                  <hi>Iconoclaſtes.</hi> pref. p. 8.</note> of <hi>Higham,</hi> Coll. <hi>Mat. Tomlinſon,</hi> were ſome of them. So true was it, that <hi>Milton,</hi> the moſt Inve<g ref="char:EOLhyphen"/>terate of the King's Enemies obſerved, <hi>that thoſe</hi> who hated him, and fought againſt him with di<g ref="char:EOLhyphen"/>ſplayed Banners in the Field, afterwards <hi>applauded and extolled him, as a Prince, the Wiſeſt, and most Re<g ref="char:EOLhyphen"/>ligious, that ever lived.</hi>
+            </p>
+            <p>BUT, beſides the Sword Men, who became convinced, and dropp'd their Weapons, many of His buſieſt Enemies, the great Incendiaries in the Parliament, Pulpit, or Preſs, had the ſame Con<g ref="char:EOLhyphen"/>viction, when the Heat of their Jealouſy and Rage was abated; and they had time to conſider, or op<g ref="char:EOLhyphen"/>portunity to converſe with him: Then they be<g ref="char:EOLhyphen"/>came convinced, and admired him more than the Q of <hi>Sheba</hi> did <hi>Solomon,</hi> for ſhe came to ſee a Man famous for Wiſdom, and found him to exceed her Expectation. But theſe, a Man Infamous for Folly and Wickedneſs; and found him ſo much the con<g ref="char:EOLhyphen"/>trary, that they cried out, <hi>Ecce! plus quam</hi> Solomon! <note place="margin">Mr. <hi>Long</hi> ag <hi>Walker,</hi> p. 48. Dr. <hi>Hollingſ. Jan.</hi> 30th. 93.</note> Thus Mr. <hi>Vines,</hi> after the Diſpute at <hi>Newport,</hi> cri'd
+<pb facs="tcp:58138:12"/>
+out, <hi>Lo! a ſecond</hi> Solomon! <hi>A. Henderſon</hi> after that at <hi>New Caſtle,</hi> was ſo charm'd with the King's Learning, Wiſdom, <hi>&amp;c.</hi> that he became ſevere<g ref="char:EOLhyphen"/>ly penitent for what he had acted many Years a<g ref="char:EOLhyphen"/>gainſt him, retired to <hi>Scotland,</hi> 
+               <note n="*" place="margin">
+                  <hi>Whitlock</hi> Mem. p. 123. <hi>Saunderſon,</hi> Hiſt. p. 921. <hi>Perinchiff,</hi> Hiſt. K. <hi>Char.</hi> p. 39. <hi>Heath,</hi> Chr. p. 115. <hi>Ravilak</hi> Red. p. 4. <hi>Athen. Oxon.</hi> vol. 2. p. 520. 436, 205.</note> and there died of Grief; leaving ſuch a Character of Him, as his greateſt Friends have not exceeded. Sir <hi>Tho. Her<g ref="char:EOLhyphen"/>bert</hi> and Mr. <hi>Harrington,</hi> put into the King's Bed<g ref="char:EOLhyphen"/>chamber, upon the removal of his Loyal Servants, by the Army, became Converts, and boldly vin<g ref="char:EOLhyphen"/>dicated Him againſt the Calumnies of His Enemies; and declared him <hi>a moſt Wiſe and Excellent King.</hi> So did Speaker <hi>Lental, W. Prinn,</hi> Mr. <hi>Corbet,</hi> &amp;c. <note place="margin">Hiſt. <hi>Indep.</hi> vol. 2. p. 109. 138, 201.</note> He was <hi>the moſt ſanctified, virtuous, and knowing Prince in the World: had learnt the whole Method of Human Perfection,</hi> ſaid <hi>C. Walker,</hi> 1650. who was a Covenanter a Member of the <hi>L. Parliament,</hi> and had, as himſelf boaſts, <hi>faithfully ſerved them from the beginning, with great Pain, Hazard, vaſt ex<g ref="char:EOLhyphen"/>pence of Health and Money,</hi> Gratis, <hi>and in pure Love of</hi> the good old Cauſe, <hi>and Hatred of the King's Will,</hi> 1647. The famous Mr. <hi>A. Marvel,</hi> during <hi>Cromwel</hi>'s Uſurpation, was his Under Secretary to <hi>Milton,</hi> &amp; a great Admirer of both. And altho' after the Reſtauration, he became the great Idol of the publicans, a Lampooner of the Court, and Friend to its Enemies; yet on all Occaſions, he met with in his reflective and ſatyrical Writings, to mention the <hi>R. Martyr,</hi> he ſpeaks of him with Applauſe. <hi>When the War broke out,</hi> quoth he, <hi>Hell broke looſe; <note place="margin">Hiſt. <hi>Judep.</hi> vol. 2. p. 109. 138, 201.</note>
+                  <pb facs="tcp:58138:12"/>
+the L. P. ought, and might have truſted the King with</hi> 
+               <note place="margin">
+                  <hi>Rehearſal Tranſproſed,</hi> part 1. p. 302. Part 2. p. 349.</note> 
+               <hi>the whole Matter, about which they quarrelled, he was of ſo accurate and piercing a Judgment—the beſt Prince that ever wielded the Scepter of theſe Kingdoms, very pious and religious, of exquiſite <g ref="char:V">Ʋ</g>nderſtanding;</hi> 
+               <note place="margin">Further In<g ref="char:EOLhyphen"/>ſtr. to <hi>Painter,</hi> 1670.</note>
+               <hi>—Holy</hi> Charles, <hi>was like</hi> Marcus Aure<g ref="char:EOLhyphen"/>lius—</p>
+            <p>THERE cannot be a truer, or better Chara<g ref="char:EOLhyphen"/>cter given of this moſt excellent Prince, than in a <note place="margin">Hiſt K. <hi>Char.</hi> 1649.</note> Libel written 1649. by <hi>W. Lilly,</hi> on purpoſe to de<g ref="char:EOLhyphen"/>fame Him, and renown his Murtherers; but it's too long for this Preface. Moſt of thoſe who embrued their Hands in his Blood, recanted, confeſs'd their Guilt in ſhedding the Innocent Blood of a Sacred King, of ever bleſſed Memory; with Tears ab<g ref="char:EOLhyphen"/>horr'd the Fact, and themſelves for committing it; and like <hi>Joſeph's</hi> Brethren, accuſed one another at the Bar, for what they had done together on the Bench; as may be ſeen in Authentick Reports of their Tryals; though a late ſcandalous Libeller hath the Impudence to affirm, <hi>That thoſe who con<g ref="char:EOLhyphen"/>demned King</hi> Charles <hi>to Death, were ſteadfaſt to the</hi> 
+               <note place="margin">T. O. firſt <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, p. 73</note> 
+               <hi>laſt, few of them having ſo little Grace to repent of what they had done;</hi> but what he Swears, and what he Writes, are alike with him; uſually the breadth of Heaven wide from Truth: For though Re<g ref="char:EOLhyphen"/>bellion be like the Sin of Witchcraft, ſeldom or ne<g ref="char:EOLhyphen"/>ver repented of; yet 23, that is almoſt all thoſe ex<g ref="char:EOLhyphen"/>ecrable Regicides, who by a Mockery of Juſtice,
+<pb facs="tcp:58138:13"/>
+perpetrated that cruel Villany; were ſometimes by the Power of Truth and Conſcience, forced, in the midſt of, or ſoon after all their Railing at this Martyr'd King, to cry out, as Satan did to our Saviour, <hi>I know Thee, thou art the Son of God!</hi> And declare <note place="margin">Voice from Heaven, to the Com. Wealth, 1651.</note> openly to the World, as <hi>A. Evans</hi> ſoon after the Murther, that <hi>He was a Prince Able, Wiſe, Faithful, of an undefiled good Spirit; perfect in all things, Ju<g ref="char:EOLhyphen"/>ſtified of God and Men; and by His</hi> own Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>THUS much for the Evidence given in behalf of the <hi>R. M.</hi> by many of his Adverſaries and Murtherers. There are a (loud of Witneſſes be<g ref="char:EOLhyphen"/>ſide, who, tho' his Friends, cannot be thought Par<g ref="char:EOLhyphen"/>tial in his Favour, ſome of them being Men of Ho<g ref="char:EOLhyphen"/>nour, who well knew Him, Teſtified for him when he was Dead; and they Dying by the ſame Hand that bereft him, 'twas no Time or Subject for Flattery or Falſhood.</p>
+            <p>I will, therefore, produce a couple of them, to clench the whole, and perfume the Court, after that filthy pack who have appeared in this Cauſe, and then adjourn.</p>
+            <p>THAT Loyal Martyr, and Noble Patriot, the Lord <hi>Capel,</hi> was Famous, even among his Enemies, for Piety, Integrity, Wiſdom, and Heroic Vertue; when he came to Die for his Fidelity to this Excel<g ref="char:EOLhyphen"/>lent
+<pb facs="tcp:58138:13"/>
+Prince, he gave Him this <hi>Eulogy,</hi> with his laſt Breath: <hi>I have conſidered the Images of all the Great<g ref="char:EOLhyphen"/>eſt</hi> 
+               <note place="margin">Speech on the Scaffold.</note> 
+               <hi>and moſt Virtuous Princes which have been in the World, and cannot find one more ſufficient than K.</hi> Charles.</p>
+            <p>AND Duke <hi>Hamilton,</hi> who Died with him for <note place="margin">
+                  <hi>Hamilton</hi>'s Memoirs, p. 398.</note> the ſame Cauſe, took God to witneſs, at his laſt moments, that <hi>he knew the King to have as eminent Virtues, and few Vices, as any Man; that He was an excellent Proteſtant, free from intending Tyranny, or Arbitrary Government.</hi>
+            </p>
+            <p>WHAT a multitude of ſuch Characters are there extant from the Tongues and Pens of Great and Good Men, who would not Flatter, could not be Deceived, knowing what they ſaid to be true? In what Rapture and Extaſie have His <hi>Praiſes</hi> been celebrated, and the higheſt <hi>Eulogies</hi> given of this incomparable King, in the moſt ſolemn and greateſt Aſſembly of the Nation, for its Number and Qua<g ref="char:EOLhyphen"/>lity? I mean our Parliaments, who, every Year, as I have already obſerved, approve and publiſh the Praiſes and Celebrations of this <hi>King's In<g ref="char:EOLhyphen"/>nocence, Righteouſneſs, Wiſdom, and great Ver<g ref="char:EOLhyphen"/>tues.</hi>
+            </p>
+            <p>AND now I appeal to all Rational Men, which is of moſt Credit in ſuch a caſe? The Evidence of Mortal Enemies undeceived and penitent, the Judg<g ref="char:EOLhyphen"/>ment
+<pb facs="tcp:58138:14"/>
+of the higheſt Judicature, the Verdict of an Engliſh General Council, the Declaration of our Oracles, and the Dying Teſtimony of Men of Ho<g ref="char:EOLhyphen"/>nour, Integrity, and a publick Spirit: Or the Slan<g ref="char:EOLhyphen"/>ders of ſuch Scandalous Witneſſes, as are already Convict of Perjury, and proved <hi>non probus;</hi> the Calumnies of ſuch proſcribed Traitors as <hi>Ludlow;</hi> or the Lyes, Reproaches, popular Defamations, Falſhoods of <hi>Grub ſtreet,</hi> and Factious Cabals, which have neither Foundation, or Proof; and the Divul<g ref="char:EOLhyphen"/>gers of which are aſhamed to be known? <hi>Judge, like</hi> Engliſh <hi>Men, and ſpeak your minds!</hi>
+            </p>
+            <p>I muſt end here; and reſerve the abundance more I have to ſay on this Head, for another Occa<g ref="char:EOLhyphen"/>ſion; after a few Words to ſuch as are made be<g ref="char:EOLhyphen"/>lieve King <hi>Charles</hi> was not Author of <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and to thoſe who Neglect, or Oppoſe the Obſerva<g ref="char:EOLhyphen"/>tion of <hi>His Day.</hi>
+            </p>
+            <p>THE former I refer to the Second Edition of that Excellent Defence, lately made of His Right to that Seraphick Book, by Mr. <hi>Wagſtaff,</hi> and is Sold by <hi>H. Hindmarſh,</hi> in <hi>Cornhill:</hi> Where all Ob<g ref="char:EOLhyphen"/>jections are obviated; and its being Genuine, pro<g ref="char:EOLhyphen"/>ved by irrefragable Arguments, and unqueſtionable Evidence. The ſame is done by the Author of the <hi>Princely Pellican.</hi> Reſtitution to the R. Author. Mr. <hi>Long</hi>'s Anſwer to Dr. <hi>Walker.</hi> And in ſeveral
+<pb facs="tcp:58138:14"/>
+Tracts lately written by Dr. <hi>Hollingworth,</hi> and ma<g ref="char:EOLhyphen"/>ny others.</p>
+            <p>TO thoſe who are ſo barbarous as to Affront God, and the Law, in making this Day a Feſtival; <note place="margin">A. D. 1694. came out a Libel, writ by <hi>J. G.</hi> on purpoſe to diſſuade the People of <hi>England</hi> from obeying a Law of their <hi>Country, viz.</hi> Statute 3. 2. <hi>Car.</hi> 12.</note> if they are Engliſh Subjects, I will only urge the Command of a Statute Law, the Practice of the King and three Eſtates, and the Generality of the Nation; and beg of them to conſider, if not in Conformity and Obedience to the Law and Good Manners to the King, Lords and Commons; (for many Diſſent from, and grow Regardleſs of, all thoſe) yet for the Reaſons pathetically urged by the Reverend Preacher of this Sermon, they at leaſt forbear to Affront and Pervert the ſolemn Anniver<g ref="char:EOLhyphen"/>ſary Celebration of the <hi>Day,</hi> on which, for our Sins, the <hi>R. Martyr</hi> went to Heaven; and pray with that Church, in, and for which He Died: <hi>That His Me<g ref="char:EOLhyphen"/>mory may be ever bleſſed among us; that we may fol<g ref="char:EOLhyphen"/>low the Example of His Courage, Conſtancy, Meek<g ref="char:EOLhyphen"/>neſs, great Patience, and Charity: And that this our Land may be freed from the Vengeance of His Righte<g ref="char:EOLhyphen"/>ous Blood, and Gods Mercy glorified in the Forgiveneſs of our Sins,</hi> Amen.</p>
+            <l>
+               <pb facs="tcp:58138:15"/>
+Yet, mighty God! Yet, yet, we Humbly crave,</l>
+            <l>This Floating Iſle from Shipwreck ſave;</l>
+            <l>And tho' to waſh that Blood which doth it ſtain,</l>
+            <l>It well deſerves to ſink into the Main; <note place="margin">
+                  <hi>Mr.</hi> Cowley.</note>
+            </l>
+            <l>Yet for the <hi>Royal Martyr</hi>'s Prayer,</l>
+            <l>(The <hi>Royal Martyr</hi> Prays we know)</l>
+            <l>This guilty periſhing Veſſel ſpare;</l>
+            <l>Hear but His Soul above! And not His Blood below!</l>
+            <closer>
+               <signed>Ita Canit. James Yonge.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:58138:15"/>
+            <head>A SERMON Preached at <hi>St.</hi> Andrew'<hi>s</hi> Plymouth, On the <hi>30th</hi> of <hi>January,</hi> 1698/9.</head>
+            <epigraph>
+               <bibl>2 SAM. xxi. Chap. part of the firſt Ver.</bibl>
+               <q>And the Lord anſwered, It is for <hi>Saul,</hi> and for his Bloody Houſe, becauſe he ſlew the <hi>Gibeonites.</hi>
+               </q>
+            </epigraph>
+            <p>IN the former part of this Verſe, we find there was a Famine in the Days of <hi>David</hi> Three Years, Year after Year; and <hi>DAVID</hi> enquired of the LORD.</p>
+            <p>
+               <pb n="2" facs="tcp:58138:16"/>
+In the Reign of <hi>David,</hi> though a Man <hi>after God's own heart,</hi> an heavy Judgment, a Famine, for Three Years, was inflicted on God's ancient People: And the Famine having continued ſo long a time, <hi>David</hi> might reaſonably imagine, there was <hi>more</hi> than a <hi>natural</hi> Cauſe; and that God, for ſome reaſon not known to him, might in<g ref="char:EOLhyphen"/>flict the heavy Judgment upon him and his People. And, therefore, being careful of their Welfare, he enquired of the Lord, that is, by the High-Prieſt, with the <hi>
+                  <g ref="char:V">Ʋ</g>rim</hi> and <hi>Thummim,</hi> by whom God, upon <hi>ex<g ref="char:EOLhyphen"/>traordinary</hi> Occaſions, did give anſwer to ſuch enquiries: And the Anſwer to this, we have in the Text.</p>
+            <p>
+               <hi>And the Lord anſwered, It is for</hi> Saul, <hi>and his bloody Houſe, becauſe he ſlew the</hi> Gi<g ref="char:EOLhyphen"/>beonites.</p>
+            <p>Now we may find in the following Verſe, <hi>who</hi> thefe <hi>Gibeonites</hi> were, and <hi>why Soul</hi> ſlew them. The <hi>Gibeonites</hi> were not of the
+<pb n="3" facs="tcp:58138:16"/>
+Children of <hi>Iſrael,</hi> but a remnant of the <hi>A<g ref="char:EOLhyphen"/>morites, and</hi> Saul <hi>ſought to ſlay them in his Zeal to the Children of</hi> Iſrael <hi>and</hi> Judah.</p>
+            <p>For a <hi>further</hi> underſtanding of this Mat<g ref="char:EOLhyphen"/>ter, we muſt have recourſe to the <hi>9th</hi> Chap<g ref="char:EOLhyphen"/>ter of the Book of <hi>Joſhua,</hi> where we find, that this People, when they had heard that <hi>Joſhua</hi> and the <hi>Iſraelites</hi> had deſtroyed <hi>Jeri<g ref="char:EOLhyphen"/>cho,</hi> and <hi>Ai,</hi> they ſent Ambaſſadors, pre<g ref="char:EOLhyphen"/>tending they came from a far Country, ſay<g ref="char:EOLhyphen"/>ing, They heard of the Fame of God, and all that He did in <hi>Aegypt,</hi> and to all the Kings of the <hi>Amorites;</hi> and therefore, they deſired to make a League with them. And that they might the better <hi>delude</hi> them, they put on <hi>old</hi> Garments, and brought Proviſion that was <hi>dry</hi> and <hi>mouldy,</hi> ſaying, Theſe things became ſo by their <hi>long</hi> Journey. By this Craft and Diſſimulation they obtained a League, confirmed by the <hi>Oath</hi> of the Prin<g ref="char:EOLhyphen"/>ces of <hi>Iſrael.</hi> But there was great murmur<g ref="char:EOLhyphen"/>ing, when the People underſtood how they were outwitted by theſe <hi>Gibeonites,</hi> and de<g ref="char:EOLhyphen"/>ceived by their Craft and Diſſimulation;
+<pb n="4" facs="tcp:58138:17"/>
+for they belonged to a City of the <hi>Amorites,</hi> who, by God's Command, were to be de<g ref="char:EOLhyphen"/>ſtroyed with the reſt of the <hi>Canaanites.</hi> And though they pretended they came a long Journey, lived not three Days Journey from them. But to quiet the People, <hi>Joſhua</hi> and the Princes appointed them to be <hi>Hewers of Wood, and Drawers of Water;</hi> but ſpared their Lives, becauſe they had Sworn unto them by the <hi>Name of the Lord God of</hi> Iſrael. And in this mean and ſurvile condition, they continued till the Days of <hi>Saul,</hi> who ſlew them; for which, in the Days of <hi>David,</hi> long after this Act of bloody Cruelty was com<g ref="char:EOLhyphen"/>mitted, God puniſhed that People with a Famine, which continued Three Years.</p>
+            <p>Now there is <hi>one</hi> Thing needs Explicati<g ref="char:EOLhyphen"/>on, before I come to thoſe Obſervations, which I deſign to be the <hi>main</hi> Subjuct of my Diſcourſe at this time. Theſe <hi>Gibeon<g ref="char:EOLhyphen"/>ites</hi> being <hi>Amorites,</hi> how could <hi>Saul</hi> offend in Killing them, ſince, by God's expreſs Command, they were to be deſtroyed? For though God allowed them to make
+<pb n="5" facs="tcp:58138:17"/>
+Peace with thoſe that were far off; yet for the Cities of the <hi>Canaanites,</hi> which God gave them for an Inheritance, the Com<g ref="char:EOLhyphen"/>mand was, <hi>Thou ſhalt ſave nothing alive that breatheth,</hi> 20. chap. <hi>Deut.</hi> 16. ver.</p>
+            <p>But, in Anſwer to <hi>this,</hi> it muſt be conſi<g ref="char:EOLhyphen"/>dered, <note place="margin">Aequitate qûadam erat interpretan<g ref="char:EOLhyphen"/>da ut cum ae<g ref="char:EOLhyphen"/>ternâ Dei cle<g ref="char:EOLhyphen"/>mentiâ con<g ref="char:EOLhyphen"/>grueret. <hi>Maſ.</hi> in Joſh. p. 169.</note> that, according to the moſt learned Interpreters, the Command to Deſtroy <hi>all,</hi> and Save <hi>nothing</hi> alive, was to be under<g ref="char:EOLhyphen"/>ſtood with ſome <hi>mitigation,</hi> and under ſome <hi>limitations,</hi> that it might comport with the Mercies of God, and His readineſs to Save <note place="margin">Lex universè edicta eſſet propter eo<g ref="char:EOLhyphen"/>rum paucita<g ref="char:EOLhyphen"/>tem qui vitae ante-actae paenitentiâ eſſent meri<g ref="char:EOLhyphen"/>tas paenas eſ<g ref="char:EOLhyphen"/>ſugituri: ibid.</note> thoſe who leave their Sins, and turn to Him. And though the Command have no ſuch expreſs Limitation; yet the reaſon might be, becauſe there were ſo few who would leave their Idolatry, and deſire Peace with the People of God; theſe, and <hi>Rahab,</hi> be<g ref="char:EOLhyphen"/>ing the only inſtances of ſuch a Repentance among <hi>all</hi> the numerous Inhabitants then in <hi>Canaan.</hi>
+            </p>
+            <p>
+               <pb n="6" facs="tcp:58138:18"/>
+But how doth it appear, may you ſay, that theſe <hi>Gibeonites</hi> did thus Repent and leave their Idolatrous Worſhip, and embrace that of the God of <hi>Iſrael?</hi> Now though this be not expreſſed in the Sacred Hiſtory, yet we may <hi>collect</hi> it from ſeveral Paſſages of it. It is plain theſe <hi>Gibeonites</hi> were by ſome means or other acquainted with the wonders God did in <hi>Aegypt,</hi> and that God had com<g ref="char:EOLhyphen"/>manded the Inhabitants of <hi>Canaan</hi> ſhould be deſtroyed. And this they believed, as ap<g ref="char:EOLhyphen"/>peareth by their ſaying, they <hi>were ſore afraid of their Lives.</hi> And this Belief and Terror <note place="margin">Joſh. 9. 24.</note> muſt <hi>needs</hi> diſpoſe them to embrace the Worſhip of that God, who <hi>alone</hi> they thought was able to Save them.</p>
+            <p>And, beſides, it is ſaid, That <hi>Joſhua</hi> made them <hi>Hewers of Wood, and Drawers of Wa<g ref="char:EOLhyphen"/>ter for the Congregation, and for the Altar of the Lord,</hi> and it is very unlikely that <hi>Joſhua</hi> 
+               <note n="*" place="margin">Quis non intelliget eos afae do Demo<g ref="char:EOLhyphen"/>niorum cultu debuiſſe alie<g ref="char:EOLhyphen"/>niſſimos eſſe qui in aede Dei opt. <hi>Max.</hi> officio at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> muneri alicui praeeſ<g ref="char:EOLhyphen"/>ſent. <hi>Maſ.</hi> p. 172.</note> would have admitted them to any Service, relating to the <hi>Altar</hi> of God, if they had
+<pb n="7" facs="tcp:58138:18"/>
+been Vile Idolators, and Enemies to the Worſhip of the true God.</p>
+            <p>
+               <hi>Joſhua</hi> and the Princes of <hi>Iſrael</hi> in his time, were Men that feared God, and acted by a <hi>better</hi> Zeal than that of <hi>Saul.</hi> And if they had, by the ſubtilty of the <hi>Gibeonites,</hi> been drawn into a League contrary to God's Command, no doubt but they would have broken the Sinful League, and deſtroyed the <hi>Gibeonites</hi> with the reſt of the <hi>Amorites, all ſolemn Leagues and Covenants, that are un<g ref="char:EOLhyphen"/>godly, being better renounced than kept.</hi>
+            </p>
+            <p>This therefore was an <hi>exempt</hi> Caſe; theſe <hi>Gibeonites</hi> did not joyn with the reſt of the <hi>Amorites</hi> to oppoſe God's People, and his deſign to ſettle them in the Land of <hi>Ca<g ref="char:EOLhyphen"/>naan;</hi> they deſire to be their Servants, and asked only their Lives: They offered to <note place="margin">Nihil factum eſt contra le<g ref="char:EOLhyphen"/>gem, vide 1 <hi>Reg. 8. 20, Grot.</hi>
+               </note> leave their Idolatry, and to Worſhip with them, the only true God.</p>
+            <p>In ſuch a caſe, it was not againſt God's Command to ſpare a <hi>Canaanite,</hi> as appear<g ref="char:EOLhyphen"/>ed by another Inſtance, that of <hi>Rahab</hi> and her Family, as I intimated before. And
+<pb n="8" facs="tcp:58138:19"/>
+we may ſay of theſe <hi>Gibeonites</hi> as the Apo<g ref="char:EOLhyphen"/>ſtle doth of <hi>Rahab,</hi> By <hi>Faith they periſhed</hi> 
+               <note place="margin">Heb. 11. 9. Eadem ratio<g ref="char:EOLhyphen"/>ne vita con<g ref="char:EOLhyphen"/>ceſſa eſt Ra<g ref="char:EOLhyphen"/>chabae &amp; tori Familiae Pa<g ref="char:EOLhyphen"/>ternae. <hi>Jun.</hi>
+               </note> 
+               <hi>not, with them that believed not.</hi>
+            </p>
+            <p>So that it was a greater Sin, an Act of Bloody Cruelty in <hi>Saul</hi> to kill the <hi>Gibeonites</hi> who were <hi>Proſelytes,</hi> embraced the true Re<g ref="char:EOLhyphen"/>ligion, lived peaceably, and were very ſer<g ref="char:EOLhyphen"/>viceable to the People of <hi>Iſrael.</hi> And though God deferr'd his Vengeance for this Bloody Act for a time, yet it fell the heavier at laſt, in <hi>David</hi>'s Days, by a three Years Fa<g ref="char:EOLhyphen"/>mine.</p>
+            <p>The Words being explained, we may from them obſerve Two things.</p>
+            <p n="1">1. That Innocence is no ſecurity againſt the Violence and Oppreſſion of Bloody Men.</p>
+            <p n="2">2. That the Oppreſſion and Violence of Bloody Men of one Generation, may be puniſhed in another.</p>
+            <p n="1">
+               <pb n="9" facs="tcp:58138:19"/>
+1. That Innocence is no ſecurity againſt the Violence and Oppreſſion of Bloody Men.</p>
+            <p>In the proſecution of this,</p>
+            <p n="1">1. I ſhall give ſome <hi>Inſtances,</hi> the beſt Proof of the Truth of it.</p>
+            <p n="2">2. I ſhall ſhew this is not inconſiſtent with the Juſtice of God's Providence, in anſwer to the main Objection againſt it. And,</p>
+            <p>
+               <hi>Laſtly,</hi> Conclude with a brief Applica<g ref="char:EOLhyphen"/>tion.</p>
+            <p>
+               <hi>1st.</hi> I ſhall give ſome <hi>Inſtances,</hi> by which it may appear, that Innocence is no ſecurity againſt the Oppreſſion and Violence of Bloo<g ref="char:EOLhyphen"/>dy Men.</p>
+            <p>A great part of ſacred and prophane Hi<g ref="char:EOLhyphen"/>ſtory, is made up of Inſtances of this Na<g ref="char:EOLhyphen"/>ture.
+<pb n="10" facs="tcp:58138:20"/>
+Such unjuſt and violent Proceedings began ſoon after the Creation, and Fall of Man, as appeareth by <hi>Cain</hi>'s murthering his Brother <hi>Abel.</hi> And there have been ma<g ref="char:EOLhyphen"/>ny in all Ages, <hi>who,</hi> as St. <hi>Jude</hi> ſaith, <hi>have</hi> 
+               <note place="margin">Verſe 11.</note> 
+               <hi>gone in the way of</hi> Cain, <hi>and have ran gree<g ref="char:EOLhyphen"/>dily after the error of</hi> Balaam <hi>for Reward.</hi> Thoſe of <hi>whom the World was not worthy,</hi> 
+               <note place="margin">Heb. 11. 37, 38.</note> 
+               <hi>were,</hi> as the Apoſtle ſaith, <hi>ſtoned, ſaw'n aſun<g ref="char:EOLhyphen"/>der, and ſlain with the Sword.</hi> This was the Uſage which Prophets and Holy Men met with under the Law: And our Saviour himſelf, the Apoſtles, and many eminent Biſhops which ſucceeded them, met with no better under the Goſpel.</p>
+            <p>Our bleſſed Saviour was not only a <hi>Lamb without ſpot,</hi> a Perſon of incomparable Pie<g ref="char:EOLhyphen"/>ty and Vertue, but alſo, one that <hi>went a<g ref="char:EOLhyphen"/>bout doing good,</hi> curing Diſeaſes, reſtoring the Lame to their Strength, the Blind to their Sight, and the Dead to Life. But neither his Innocence, nor Benificence, could ſecure him againſt the Blood-thirſty <hi>Scribes</hi> and <hi>Phariſees,</hi> who often ſought his Life,
+<pb n="11" facs="tcp:58138:20"/>
+and at laſt, with <hi>pretended Forms of Juſtice,</hi> condemned him as a <hi>Malefactor,</hi> and Cru<g ref="char:EOLhyphen"/>cified him with <hi>Thieves.</hi> And the Apoſtles, when they received the Gift of the Holy Ghoſt, and were ſent to preach the Goſpel to all Nations, they were ſent as Lambs a<g ref="char:EOLhyphen"/>mong Wolves; the purity of their Doctrine, the innocence of their Lives, the benefit of their Miracles, could not preſerve them from the Violence of Bloody Men: And though by their Miracles they ſaved other Mens lives, yet by Violence they loſt their own. The time would fail me to ſpeak of thoſe eminent Biſhops and other excellent Chriſtians, who in all Ages, though harmleſs in their Lives as thoſe <hi>Gibeonites,</hi> but more ſerviceable, helping Men to that <hi>Living water, of which,</hi> 
+               <note place="margin">
+                  <hi>St.</hi> John 4. 14.</note> 
+               <hi>thoſe that drink ſhall never thirſt,</hi> met with ſome as Bloody as <hi>Saul,</hi> who by their unjuſt Violence defiled their Hands with their in<g ref="char:EOLhyphen"/>nocent Blood. But amongſt the Noble Ar<g ref="char:EOLhyphen"/>my of Martyrs, we muſt not forget <hi>The Glorious Martyr of this Day,</hi> which ſingu<g ref="char:EOLhyphen"/>lar Inſtance, if there were no other, was
+<pb n="12" facs="tcp:58138:21"/>
+ſufficient to convince us, that the beſt of Men are no more ſecure from Violence than from Natural Death. I proceed now in the</p>
+            <p>
+               <hi>2d.</hi> Place, To ſhew how this can conſiſt with the Juſtice of God's Providence, a ſeeming Contradiction to this being the <hi>maine</hi> Objection againſt it.</p>
+            <p>We muſt conſider, with <hi>Job, that God doth great Things paſt finding out,</hi> ſo that <hi>his Judgments are a great Deep,</hi> and our Reaſon <note place="margin">Chap. 9. 10.</note> cannot reach it.</p>
+            <p>St. <hi>Paul,</hi> ſpeaking of God's dealing with the <hi>Jews,</hi> who were His choſen People, and a long time favoured by Him above all o<g ref="char:EOLhyphen"/>ther Nations, and at laſt <hi>rejected,</hi> and ſuffer<g ref="char:EOLhyphen"/>ed the effects of His heavieſt Diſpleaſure: I ſay, the Apoſtle ſpeaking of <hi>this</hi> inſtance of the Divine Providence, acknowledgeth it above his Comprehenſion; <hi>How unſearcah<g ref="char:EOLhyphen"/>ble are His Judgments, and His Ways paſt finding out!</hi> And ſo this Act of the Divine Providence, in giving up the moſt Innocent
+<pb n="13" facs="tcp:58138:21"/>
+to the Rage and Fury of Blood-Thirſty Men, is thought ſomewhat obſcure and un<g ref="char:EOLhyphen"/>accountable to the Reaſon of Men. But we ought to own the Juſtice and Wiſdom of God in all His Proceedings, and though we cannot underſtand how they can conſiſt with thoſe Perfections, yet we ought firmly to believe, <hi>That the Lord is Righteous in all His Ways, and Holy in all His Works.</hi>
+            </p>
+            <p>And yet this was not ſo great a Difficulty as to puzzle the reaſon of Philoſophical and Inquiſitive Men amongſt the <hi>Heathens,</hi> as appears by <hi>Plutarch, Simplicius, Cicero,</hi> and <hi>Seneca.</hi>
+            </p>
+            <p>But I am ſpeaking to <hi>Chriſtians,</hi> who be<g ref="char:EOLhyphen"/>lieve God's Holy Word, by which <hi>Divine Revelation</hi> we may beſt be ſatisfied in this matter; and I ſhall thence produce a few of thoſe Reaſons, by which the Juſtice of God's Providence is Vindicated againſt this Objection.</p>
+            <p n="1">
+               <pb n="14" facs="tcp:58138:22"/>
+1. The Calamities of this Life, which may befall the beſt of Men, are conſiſtant with the Juſtice of God's Providence, be<g ref="char:EOLhyphen"/>cauſe <hi>the beſt of Men,</hi> as the Apoſtle ſaith, <hi>offend God in many things.</hi> And the leaſt Sin againſt God, juſtly deſerveth the heavieſt Calamities of this Life, the <hi>Wages of Sin be<g ref="char:EOLhyphen"/>ing Death,</hi> Eternal as well as Temporal. And therefore the Prophet ſaith, <hi>Why doth a</hi> 
+               <note place="margin">Lam. 3. 39.</note> 
+               <hi>living Man complain a Man for the Puniſh<g ref="char:EOLhyphen"/>ment of his Sin?</hi> That is, no Man can rea<g ref="char:EOLhyphen"/>ſonably complain, he ſuffereth more than he deſerveth from the Juſtice of God.</p>
+            <p n="2">2. Theſe Calamities of Good Men are conſiſtant with the Juſtice of God's Provi<g ref="char:EOLhyphen"/>dence, becauſe, by the Wiſdome and Good<g ref="char:EOLhyphen"/>neſs of that Providence, they receive Be<g ref="char:EOLhyphen"/>nefit and Advantage from them, which <hi>David</hi> acknowledged, ſaying, <hi>It is good for me that I have been afflicted.</hi>
+            </p>
+            <p>
+               <pb n="15" facs="tcp:58138:22"/>
+It would take up too much Time to ſhew the many Advantages Good Men receive by their Sufferings in this Life. In ſhort, by this, they are more fully weaned from the Love of the World, and their Hearts and Affections are more firmly ſet upon Spiri<g ref="char:EOLhyphen"/>tual and Heavenly Things, and thereby their Sufferings yield the <hi>Peaceable Fruit</hi> of <hi>Righteouſneſs;</hi> ſo that by this means their Title to the Eternal Happineſs of Heaven is Strengthen'd and Confirm'd: And this is not all; they are hereby qualified and pre<g ref="char:EOLhyphen"/>pared for a ſweeter reliſh of the Felicities of that Bliſsful State. The Plenty of <hi>Canaan</hi> was the greater Happineſs after the Bondage of <hi>Aegypt,</hi> and the ſcarcity and miſeries of the Wilderneſs: And an Haven is not ſo wel<g ref="char:EOLhyphen"/>come to thoſe who have Sail'd with fair and gentle Gales, as to thoſe who have met with Storms and Tempeſts. And that <hi>Reſt which remaineth for the People of God,</hi> will be re<g ref="char:EOLhyphen"/>ceived with a peculiar Joy and Satisfaction by thoſe, who have been toſſed upon the Waves of a tempeſtuous and unquiet World.
+<pb n="16" facs="tcp:58138:23"/>
+And the Peace and Love, the Harmony and Concord, which the <hi>glorious MARTYR of this Day</hi> enjoyeth with the Saints above, is the more ſweet and pleaſant, becauſe of the Tumults and Inſurrections, the Con<g ref="char:EOLhyphen"/>tradiction and Scorn, he met with from thoſe who aſſumed that Name here be<g ref="char:EOLhyphen"/>low.</p>
+            <p n="3">3. Great Glory redoundeth to God by the Patience, the Courage, and Conſtancy of his Servants, ſuffering for his ſake, the Vio<g ref="char:EOLhyphen"/>lence and Oppreſſion of Bloody Men. And God's Juſtice cannot reaſonably be queſtion<g ref="char:EOLhyphen"/>ed for thoſe Diſpoſals of his Providence, which tend to His Glory as well as the Good of Men. God was glorify'd by <hi>Job</hi>'s Patience in his Afflictions, as well as by his Juſtice and Charity in his Proſperous State. And the <hi>Royal MARTYR of this Day,</hi> brought more Glory to God, by his incom<g ref="char:EOLhyphen"/>parable Patience, Humility, and Conſtancy, than other Princes, who were bleſſed with Victory and Triumph over their Enemies.</p>
+            <p>
+               <pb n="17" facs="tcp:58138:23"/>
+               <hi>Laſt.</hi> Above all, a full and clear Vindi<g ref="char:EOLhyphen"/>cation of God's Providence in this Matter, will appear by the Retributions of <hi>the Life to come.</hi> Were there no other Life but this, and no other Reward for mens Vertue and Goodneſs but what they receive in this World, then we have an Inſtance by the Murther mentioned in the Text, and a far greater from that of this Day; which will yield an unanſwerable Argument againſt the Juſtice of God's Providence. But ſince <hi>God hath appointed a Day,</hi> in which he will after this Life reward the Sufferings of Ho<g ref="char:EOLhyphen"/>ly and Innocent Men, with unſpeakable and eternal Happineſs, whatſoever they ſuffer in this Life, maketh no Argument againſt His Juſtice towards them. The Providence of God over his Servants, is to be conſidered as one <hi>continued Work,</hi> from their firſt En<g ref="char:EOLhyphen"/>trance into this World, till they take Poſſeſ<g ref="char:EOLhyphen"/>ſion of a better. And if any of them paſs through an afflicted Life, an unjuſt and a
+<pb n="18" facs="tcp:58138:24"/>
+bloody Death to this blisful State, they have no more reaſon to complain of Injuſtice or Severity in God, than the <hi>Iſraelites</hi> had, becauſe God led them through the Wil<g ref="char:EOLhyphen"/>derneſs and the Red Sea, the ſafeſt Way to take Poſſeſſion of the Promiſed Land.</p>
+            <p>The <hi>Gibeonites</hi> therefore in the Text could have no reaſon to complain, if God took them from a ſlaviſh and painful, to a bliſsful and happy Life. And the ſame we may ſay of our late Soveraign this Day barbarouſly Murthered, whom God rewar<g ref="char:EOLhyphen"/>ded with an incorruptible Crown, for lo<g ref="char:EOLhyphen"/>ſing one for his ſake, that was corruptible and fading. And thus having ſhewed that Innocence is no ſecurity againſt the Vio<g ref="char:EOLhyphen"/>lence and Oppreſſion of Bloody Men, by giving ſome Proof of this Aſſertion, and anſwering the great Objection againſt it; the Application I promiſed, in the Laſt place ſhall be very Brief, only to make us more cauti<g ref="char:EOLhyphen"/>ous of paſſing Sentence upon Men as guilty
+<pb n="19" facs="tcp:58138:24"/>
+of great Crimes, becauſe they meet with great Calamities in this Life.</p>
+            <p>We cannot make a right Eſtimate of Mens Innocency or Guilt, by what befals them in this World, one <hi>Event happening to the Righteous and the Wicked,</hi> as the wiſe Man ſaith. Therefore as Proſperity is no certain Rule whereby to judge of Mens Vertue and Goodneſs; ſo neither is Affliction and Mi<g ref="char:EOLhyphen"/>ſery a ſure Rule to pronounce them Guilty. By this Rule we muſt acquit <hi>Saul</hi> and his Bloody Houſe, and condemn the poor <hi>Gi<g ref="char:EOLhyphen"/>beonites,</hi> whoſe Cauſe God did plead; and which would be a greater Error, we may condemn the whole Army of Martyrs, and juſtify that of Rebels. And into what Ab<g ref="char:EOLhyphen"/>ſurdities will this way of Judging bring us? For by this Rule, the pretended Judges of our late Soveraign muſt be Saints when they ſate in <hi>Weſtminſter-Hall,</hi> and fall from that Grace and become Reprobates, when they received their juſt Puniſhments at <hi>Ty<g ref="char:EOLhyphen"/>burn.</hi>
+            </p>
+            <p>
+               <pb n="20" facs="tcp:58138:25"/>
+I proceed now to the</p>
+            <p>
+               <hi>2d.</hi> Obſervation, That the Oppreſſion and Violence of Bloody Men in one Gene<g ref="char:EOLhyphen"/>ration may be puniſhed in another. Of this,</p>
+            <p n="1">1. I ſhall give ſome Proof.</p>
+            <p n="2">2. I ſhall ſhew in what Caſes God ta<g ref="char:EOLhyphen"/>keth this Method. And</p>
+            <p>
+               <hi>Laſtly,</hi> Conclude with ſome Applica<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">1. For ſome Proof of this Aſſertion, That the Oppreſſion and Violence of Bloo<g ref="char:EOLhyphen"/>dy Men in one Generation may be puniſhed in another.</p>
+            <p>This Proof depends moſt upon Matter of Fact, and of which we have one plain and undeniable Inſtance in the Text.</p>
+            <p>
+               <pb n="21" facs="tcp:58138:25"/>
+But the Truth of this may be farther confirmed by many other Matters of the like Nature; but I ſhall mention but a few.</p>
+            <p>The <hi>First,</hi> I Collect from the 23th. Chap. of St. <hi>Matth.</hi> Ver. 35. 36. where our Saviour ſaith, <hi>That upon that Generation ſhould come all the righteous Blood ſhed upon Earth, from the Blood of righteous</hi> Abel, <hi>to the Blood of</hi> Zacharias. Here it is plainly threatned, that this Generation ſhould ſuf<g ref="char:EOLhyphen"/>fer the Vengeance of God for the Blood of <hi>Abel,</hi> that was ſhed by <hi>Cain</hi> in the begin<g ref="char:EOLhyphen"/>ning of the World; and for the Blood of <hi>Zacharias,</hi> who, if he were that <hi>Zacharias</hi> mentioned in the ſecond Book of the <hi>Chro<g ref="char:EOLhyphen"/>nicles</hi> (as is very probable) he was ſlain a<g ref="char:EOLhyphen"/>bout Seven Hundred Years before this Gene<g ref="char:EOLhyphen"/>ration.</p>
+            <p>The bloody Cruelty of the <hi>Jews</hi> in the Crucifixion of our Saviour, is another In<g ref="char:EOLhyphen"/>ſtance. The Deſtruction of <hi>Jeruſalem</hi> by
+<pb n="22" facs="tcp:58138:26"/>
+the Emperor <hi>Titus,</hi> was chiefly for the Pu<g ref="char:EOLhyphen"/>niſhment of that horrible Murther; but this was nigh Forty Years after the Fact, and thoſe ſuffered for it, who were not born when it was committed.</p>
+            <p>The ſame we may obſerve in the Deſtru<g ref="char:EOLhyphen"/>ction of <hi>Babylon;</hi> of which we read in the 18th Chapter of the <hi>Revelation</hi> of St. <hi>John,</hi> in the 21ſt Verſe it is ſaid, <hi>A mighty Angel took up a Stone like a great Mill-ſtone, and caſt it into the Sea, ſaying, Thus with Violence ſhall that great City of</hi> Babylon <hi>be caſt down, and ſhall be found no more at all.</hi>
+            </p>
+            <p>I ſhall not enter into the conſideration of what City St. <hi>John</hi> meaneth by this City of <hi>Babylon;</hi> and whether this Propheſy was fulfilled in the Deſtruction of the Old Heathen <hi>Rome,</hi> which was the Opinion of ſeveral of the antient Fathers, or is yet to be fulfilled by the Deſtruction of this Preſent <hi>Rome,</hi> which is the Opinion of later Interpreters. That which I obſerve is, that in the Deſtru<g ref="char:EOLhyphen"/>ction of <hi>Babylon</hi> Men are puniſhed, not
+<pb n="23" facs="tcp:58138:26"/>
+only for their own bloody Cruelties, but al<g ref="char:EOLhyphen"/>ſo for thoſe that were committed by their Anceſtors, and in the Ages before them. And this is evident from the laſt Verſe of that Chapter, <hi>And in her was found the Blood of the Prophets, and of Saints, and of all that were ſlain upon the Earth.</hi> So that they were charged with the bloody Cruelties of others in preceding Ages, and were puniſhed for them. Theſe Inſtances as well as that in the Text, are a full Proof of the Truth of what was obſer<g ref="char:EOLhyphen"/>ved.</p>
+            <p>I proceed in the</p>
+            <p>
+               <hi>2d.</hi> Place, to ſhew in what Caſes God taketh this Method, and inflicts Judgments on the preſent for the Oppreſſion and Vio<g ref="char:EOLhyphen"/>lence of Bloody Men, in paſs'd Genera<g ref="char:EOLhyphen"/>tions.</p>
+            <p>This is not the conſtant Method of the Divine Providence, but only in ſome parti<g ref="char:EOLhyphen"/>cular
+<pb n="24" facs="tcp:58138:27"/>
+Caſes, in which the Juſtice of His Pro<g ref="char:EOLhyphen"/>vidence cannot reaſonably be queſtioned, and they are ſuch as theſe that fol<g ref="char:EOLhyphen"/>low.</p>
+            <p>
+               <hi>1ſt.</hi> When the preſent Generation have no Senſe of the Blood and Violence of a former, no Pity and Compaſion for thoſe Innocent and Holy Ones, who ſuffered by the Tiranny and Cruelty of Men. This, ſome think, was the Caſe of <hi>David</hi> and his People with reſpect to the <hi>Gibeonites. Vide<g ref="char:EOLhyphen"/>batur David rem negligere,</hi> ſaith one. <hi>David</hi> 
+               <note place="margin">Pet. Mart.</note> and his People took no notice of what was done under a former Reign; and for this reaſon they were Puniſhed for it. For we ought to be Humbled for the Sins that were committed before we were Born; as ap<g ref="char:EOLhyphen"/>peareth by the Examples of God's Servants, recorded in His Word, who made Confeſ<g ref="char:EOLhyphen"/>ſion of the Sins of their Fore-fathers, as well as their own, that neither might pull down God's Judgments upon them.</p>
+            <p>
+               <pb n="25" facs="tcp:58138:27"/>
+               <hi>2d.</hi> God taketh this Method, and Pu<g ref="char:EOLhyphen"/>niſheth Men of a ſucceeding Generation for the Violence and Oppreſſion of a former, when they enjoy the Fruits of that unjuſt Violence, and make no Reſtitution to the Poſterity of Men unjuſtly Ruined and Un<g ref="char:EOLhyphen"/>done.</p>
+            <p>And this ſome learned Expoſitors ob<g ref="char:EOLhyphen"/>ſerve alſo in the caſe of the <hi>Gibeonites,</hi> in the Text. It is ſaid in the following Verſe, Saul <hi>ſought to ſlay the</hi> Gibeonites, <hi>in his Zeal for the Children of</hi> Iſrael <hi>and</hi> Judah. Ais Pretence was the Command of God be<g ref="char:EOLhyphen"/>fore-mentioned, to deſtroy all the <hi>Canaanites,</hi> and to take Poſſeſſion of their Cities, which, with all they enjoyed, and had gotten by their hard Labour, He gave to the People to ingratiate himſelf with them. And this was afterwards in <hi>David</hi>'s time enjoy'd by thoſe on whom he beſtow'd it, or their Poſterity. For this God puniſheth them with a long Famine, and it is that noted Caſe in which God <hi>Vi<g ref="char:EOLhyphen"/>ſiteth
+<pb n="26" facs="tcp:58138:28"/>
+the Iniquity of the Fathers upon the Chil<g ref="char:EOLhyphen"/>dren,</hi> who Inherit an ill-gotten Eſtate, and on which a Curſe is uſually in<g ref="char:EOLhyphen"/>tail'd.</p>
+            <p>
+               <hi>3d.</hi> The preſent Generation may ſuffer for the Blood and Violence of a former, when they own, applaud, and juſtify ſuch violent and unjuſt Practices. And this was the Caſe of the Jews, with reſpect to the Crucifixion of our Saviour. The follow<g ref="char:EOLhyphen"/>ing Generation adher'd to the Unbelief of the former; they rejected the only Son of God as an Impoſtor; Perſecuted even to Death all that believed on Him; and by this means made themſelves as accountable for His Blood, as thoſe that cryed out, <hi>His Blood be upon us and our Chil<g ref="char:EOLhyphen"/>dren.</hi>
+            </p>
+            <p>
+               <hi>Laſt.</hi> The preſent Generation may ſuf<g ref="char:EOLhyphen"/>fer for the Blood and Violence of a former,
+<pb n="27" facs="tcp:58138:28"/>
+when they hold the ſame Principles, and are of the ſame Temper, by which their Ance<g ref="char:EOLhyphen"/>ſtors were engaged in ſuch Actions before their time. And this was the Caſe of the <hi>Scribes</hi> and <hi>Phariſees,</hi> with reſpect to the Blood of <hi>Abel</hi> and <hi>Zacharias,</hi> and of thoſe Prophets and Holy Men that were ſlain be<g ref="char:EOLhyphen"/>fore they were Born. What they profeſs in the 23. chap. of St. <hi>Mat.</hi> verſ. 30. <hi>That if they had been in the days of their Fathers, they would not have been partakers with them in the. Blood of the Prophets,</hi> was Falſhood and Hi<g ref="char:EOLhyphen"/>pocriſy. <hi>Malitia ad omnes extendere vellet ſi poſſet,</hi> as one obſerves upon that place.</p>
+            <p>They had the ſame malicious and bloody Temper with their Fore-fathers, and they who murthered Chriſt and His Apoſtles, would have done the ſame to <hi>Abel</hi> and <hi>Za<g ref="char:EOLhyphen"/>charias,</hi> yea, to <hi>Moſes</hi> and the Prophets, if they had lived in their Days.</p>
+            <p>
+               <pb n="28" facs="tcp:58138:29"/>
+And thus having ſhewed, in what Caſes we are to underſtand God's afflicting Judg<g ref="char:EOLhyphen"/>ments on a preſent, for the Blood and Violence of a preceding Generation. In the</p>
+            <p>
+               <hi>Laſt</hi> Place, the Application I ſhall make, ſhall be to ſhew,</p>
+            <p>
+               <hi>1ſt.</hi> What cauſe we have yet to fear the Judgments of God to avenge the innocent Blood of our late SOVERAIGN, who was upon this Day Barbarouſly Murther<g ref="char:EOLhyphen"/>ed. And</p>
+            <p>
+               <hi>2d.</hi> What Courſe we ſhould take to prevent the Execution of ſuch Judg<g ref="char:EOLhyphen"/>ments.</p>
+            <p>
+               <pb n="29" facs="tcp:58138:29"/>
+               <hi>1ſt.</hi> To ſhew what cauſe we have yet to fear the Judgments of God to Avenge the innocent Blood of our late SOVERAIGN, who was Barbarouſly Murthered on this Day.</p>
+            <p>I ſuppoſe I need not ſpend time, to prove to you who are before me, that the Executing of our late SOVERAIGN, was not an Act of Juſtice, but of Inhumane and Barbarous Cruelty. If we are not convin<g ref="char:EOLhyphen"/>ced of this, it is vile Hipocriſy to aſſemble upon this occaſion.</p>
+            <p>The <hi>Act of Parliament,</hi> by which this Day is ſet apart, and enjoined for <hi>Humiliati<g ref="char:EOLhyphen"/>on</hi> and <hi>Prayer,</hi> declareth the putting our late SOVERAIGN to Death, to be <hi>An Horrid, Impious, Exe<g ref="char:EOLhyphen"/>crable</hi> 
+               <note place="margin">2 Car. 12.</note> 
+               <hi>Murther, and unpa<g ref="char:EOLhyphen"/>ralell'd
+<pb n="30" facs="tcp:58138:30"/>
+Treaſon, committed by a party of Wretched Men, deſperately Wicked, and hardened in Impiety, who were neither true Proteſtants nor true Subjects, but Miſcre<g ref="char:EOLhyphen"/>ants, whoſe Fanatick Rage gave the Proteſtant Religion the greateſt VVound and Re<g ref="char:EOLhyphen"/>proach, and the People of</hi> England <hi>the moſt inſuppor<g ref="char:EOLhyphen"/>table Shame and Infamy it was poſſible for the Enemies of GOD and the KING to bring upon them.</hi>
+            </p>
+            <p>
+               <pb n="31" facs="tcp:58138:30"/>
+And in the Prayers which we Offer up to <hi>God</hi> this Day; the Vertues of this Murther'd Prince, His <hi>Courage</hi> and <hi>Conſtancy,</hi> His <hi>Pati<g ref="char:EOLhyphen"/>ence</hi> and <hi>Charity</hi> are commemorated; His <hi>Innocency</hi> is aſſerted, His <hi>Cauſe</hi> is juſtify'd, in that His Death is ſtiled a <hi>Martyrdom,</hi> by which we may know how to judge of that which is called the <hi>good Old Cauſe;</hi> Old indeed as that of <hi>Lucifer,</hi> but <hi>no better,</hi> though more proſperous. We, certainly, who offer up ſuch Prayers as thoſe, if we have <hi>one</hi> grain of ſincerity, muſt be well ſatisfied that the <hi>Blood</hi> of this Day was <hi>Innocent,</hi> and therefore may juſtly provoke God, <hi>when he maketh Inquiſi<g ref="char:EOLhyphen"/>tion for Blood,</hi> to puniſh our Sinful Land wherein this was ſhed. Taking it then for granted, that the Arraigning, Condemning, and Executing King <hi>Charles</hi> the Firſt, of Bleſ<g ref="char:EOLhyphen"/>ſed Memory, was an Act of <hi>Barbarous Inju<g ref="char:EOLhyphen"/>ſtice</hi> and <hi>Cruelty;</hi> I proceed to ſhew what reaſon we have to fear God may deal with us as he did with <hi>David,</hi> and the People of <hi>Iſrael</hi> for <hi>Saul</hi>'s Murthering the <hi>Gibeonites.</hi>
+            </p>
+            <p>
+               <pb n="32" facs="tcp:58138:31"/>
+If we compare the Perſon Murthered on this Day, with thoſe mentioned in the Text, we ſhall find his Quality to be ſuch, that it will aggravate the Shedding of his Blood, above that which was puniſhed with a Three Years Famine.</p>
+            <p>Our late Murthered Soveraign had the Piety of <hi>David</hi> without his Sins: No <hi>
+                  <g ref="char:V">Ʋ</g>ri<g ref="char:EOLhyphen"/>ah</hi> fell by his Cruelty, no <hi>Bethſheba</hi> was de<g ref="char:EOLhyphen"/>filed by his Luſt. And if <hi>David</hi> was worth Ten Thouſand <hi>Iſraelites,</hi> as they all decla<g ref="char:EOLhyphen"/>red, <note place="margin">2 Sam. 18. 3.</note> the Martyr of this Day was more worth then all the <hi>Gibeonites;</hi> and therefore we may fear, his innocent Blood may pull down more than a Three Years Fa<g ref="char:EOLhyphen"/>mine.</p>
+            <p>If with the generality of Interpreters, we look upon the <hi>Murther</hi> of the <hi>Gibeonites</hi> as more Hainous, becauſe of the Perjury con<g ref="char:EOLhyphen"/>joyned with it, by the Violation of that Oath
+<pb n="33" facs="tcp:58138:31"/>
+which was taken for their Preſervation, hath not the Murther of this Day the ſame Aggravation, but in a higher Degree? That was an Oath taken by <hi>Joſhua</hi> and the Princes of <hi>Iſrael,</hi> ſome Hundred Years be<g ref="char:EOLhyphen"/>fore <hi>Saul</hi>'s time: But the Authors of this Day's Murther, had Perſonally taken the <hi>Legal Oath of Alegiance,</hi> and that Illegal one of the <hi>Covenant,</hi> and were obliged by both to preſerve the Life of this excellent Prince, and his Honour too.</p>
+            <p>And if we proceed to compare our Caſe with thoſe before-mentioned, in which you heard God inflicts Judgments for the Blood and Violence of a preceding Generation, we may ſee farther Cauſe to fear, that when God maketh Inquiſition for Blood, that of this Day may be remembred.</p>
+            <p>Did not <hi>David,</hi> as you hear befored, mind the killing of the <hi>Gibeonites,</hi> nor the Hard<g ref="char:EOLhyphen"/>ſhips thoſe were under who did ſurvive that
+<pb n="34" facs="tcp:58138:32"/>
+Cruelty? Is it not plain, the Two laſt Kings (tho' ſomthing was done to avenge their Father's Blood) had little Regard to the Service and Sufferings of his Friends? For many of thoſe found more Favour, who ventured their Lives and Fortunes to bring the King to the Block, then thoſe who Hazarded both to keep him from it.</p>
+            <p>Were the <hi>Jews</hi> Puniſhed for Crucifying our Saviour Forty Years after, becauſe they owned and juſtified that bloody Fact? And were the <hi>Scribes</hi> and <hi>Phariſees</hi> threatned to be puniſhed for the Blood of <hi>Abel</hi> and <hi>Za<g ref="char:EOLhyphen"/>charias,</hi> becauſe they were acted by the ſame Temper and Principles, by which thoſe unjuſt and cruel Actions were com<g ref="char:EOLhyphen"/>mitted? It is plain, our Caſe carrieth great Reſemblance to theſe. For, are there not Books openly Printed and Sold, in which the Murther of this Day is Juſtified? Do we not in Converſation often hear the
+<pb n="35" facs="tcp:58138:32"/>
+Righteous Cauſe of our late Murthered Soveraign Arraigned and Condemned, and his ſacred Memory Blaſphemed? And by this it is plain, there are many amongſt us, who want nothing but Age, to have appeared in the Court, in which the late King was Condemned, or on the Scaffold on which he was Executed. And doth not that Hatred of Monarchy, and Zeal for ano<g ref="char:EOLhyphen"/>ther Species of Government, the Principles by which our late Soveraign was brought to the Block, encreaſe amongſt us? Theſe are Matters too Evident to be denied, though it is very ſtrange it ſhould be ſo, under the Government of a Crowned Head, the Grand<g ref="char:EOLhyphen"/>ſon of our Royal Martyr, who hath the ſame Blood running in his Veins which was this Day ſhed.</p>
+            <p>And thus having ſhewed that we have Cauſe to fear there may be more Judgments in Store to avenge the Royal and Inno<g ref="char:EOLhyphen"/>cent Blood this Day ſhed; I proceed in the</p>
+            <p>
+               <pb n="36" facs="tcp:58138:33"/>
+               <hi>2d.</hi> Place, to conſider what Courſe we ſhould take to prevent the Execution of theſe Judgments. And what more effectual way can be thought on, than what the Authority and Wiſdom of the Nation hath appointed? The Obſervation, I mean, of this Day, for Humiliation and Prayer; <hi>To implore the Mercy of God, that the Guilt of that Sacred and Innocent Blood may not be Viſited on us, or our Poſterity, as the Statute ſenſibly expreſs'd it.</hi>
+            </p>
+            <p>Were not too many ſo Croſs-grain'd, as to turn this Faſt into a Feaſt? Were not thoſe who appoint ſo many Faſts for the private Concerns of a Conventicle, ſo Fro<g ref="char:EOLhyphen"/>ward, as to Deſpiſe this which is Command<g ref="char:EOLhyphen"/>ed by Authority, for a General and Publick Good? Did we all Aſſemble this Day, to Humble our ſelves before God for our Sins, to declare our Abhorrence for the Murther
+<pb n="37" facs="tcp:58138:33"/>
+of this Day, and to Deprecate the Venge<g ref="char:EOLhyphen"/>ance it may provoke GOD to Inflict? Did we to ſuch an Obſervation of this Day, add a ſincere Reformation of our Lives, en<g ref="char:EOLhyphen"/>deavouring to live Peaceably and quietly <hi>in all Godlineſs and Honeſty,</hi> then we might turn our Fears of Divine Vengeance, into Hopes of Enjoying many Years of Peace and Pro<g ref="char:EOLhyphen"/>ſperity under His preſent Majeſty, whom GOD hath ſet over us: <hi>Which God of his infinite Mercy grant, through Jeſus Christ our Lord.</hi>
+            </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:58138:34"/>
+            <pb facs="tcp:58138:34"/>
+            <head>BOOKS Printed for, and Sold by, <hi>Charles Yeo, John Pearce,</hi> and <hi>Philip Biſhop,</hi> BOOKSELLERS in <hi>EXON.</hi>
+            </head>
+            <p>SElect Hymns, each fitted to two Tunes, to be Sung in Churches.</p>
+            <p>The Beauty of Holineſs: Or, a ſhort Defence and Vindication of the pious De<g ref="char:EOLhyphen"/>cency, Regularity, and Order, of Reading the Communion-Service, at the Communi<g ref="char:EOLhyphen"/>on-Table; offered to a diſſatisfied Neigh<g ref="char:EOLhyphen"/>bour, from his Miniſter.</p>
+            <p>A Form of Prayer for Married Perſons, for the moſt part taken out of the Li<g ref="char:EOLhyphen"/>turgy.</p>
+            <p>
+               <pb facs="tcp:58138:35"/>
+A Practical Treatiſe concerning Evil Thoughts; wherein are ſome Things more eſpecially uſeful for Melancholy Perſons. By <hi>William Chilcot,</hi> M. A.</p>
+            <p>Mr. <hi>Blount</hi>'s Oracles of Reaſon, Exami<g ref="char:EOLhyphen"/>ned and Anſwered in Nine Sections: In which his many <hi>Heterodox</hi> Opinions are Re<g ref="char:EOLhyphen"/>futed, the Holy Scriptures and Revealed Re<g ref="char:EOLhyphen"/>ligion are Aſſerted, againſt <hi>Deiſm</hi> and <hi>A<g ref="char:EOLhyphen"/>theiſm.</hi> By <hi>Joſiah King,</hi> M. A. and Chap<g ref="char:EOLhyphen"/>lain to the Right Honourable <hi>James</hi> Earl of <hi>Angleſey.</hi>
+            </p>
+            <p>A Sermon preach'd in the Pariſh Church of <hi>Bovey Tracy,</hi> on <hi>Eaſter Day,</hi> 1698. By <hi>Francis Stooke,</hi> M. A.</p>
+            <p>A Sermon preach'd in St. <hi>Saviour</hi>'s Church in <hi>Dartmouth, July</hi> 24th, 1698. Toge<g ref="char:EOLhyphen"/>ther with ſome Reflections on the Opinion of thoſe, who affirm, That the only Dif<g ref="char:EOLhyphen"/>ference between the Church and the Meet<g ref="char:EOLhyphen"/>ing-Houſe, is that of a few Ceremonies. In a Letter to a Friend. By <hi>Humfry Smith,</hi> M. A.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
